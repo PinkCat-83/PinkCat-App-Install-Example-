@@ -86,14 +86,7 @@ PinkCat App (Install Example)/
     
 
 ## 📥 Descarga
-
-### Instalador Completo
-[![Descargar Instalador](https://img.shields.io/badge/Descargar-Instalador-blue?style=for-the-badge)](./Output/PinkCatApp_Setup.exe)
-
-### Ejecutable Portable (sin instalador)
-[![Descargar Ejecutable](https://img.shields.io/badge/Descargar-Ejecutable-green?style=for-the-badge)](./Output/PinkCat%20App.exe)
-
-> **Nota**: Los badges de descarga funcionan cuando el proyecto está en GitHub. Los archivos están en las rutas indicadas en este repositorio.
+Puedes encontrar las descargas en la sección "releases"
 
 ## 🎓 Uso en el Aula
 
