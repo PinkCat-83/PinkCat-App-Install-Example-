@@ -83,7 +83,7 @@ PinkCat App (Install Example)/
 └── Output/
     ├── PinkCat App.exe               # Programa final ejecutable               
     └── PinkCatApp_Setup.exe          # Instalador
-    
+```
 
 ## 📥 Descarga
 Puedes encontrar las descargas en la sección "releases"
